@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Queue-Management-Ticketing?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -73,9 +73,9 @@ The following hosted SaaS queue management platforms are sorted in **descending 
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted customer queue management software, virtual waitlist portals, and digital token call systems. **Sorted in descending order by GitHub Stars ⭐**:
+Self-hosted customer queue management software, virtual waitlist portals, and digital token call systems. **Sorted in descending order by GitHub_Stars ⭐**:
 
-| Project | Stars | Tech Stack | Description |
+| Project | GitHub_Stars | Tech Stack | Description |
 |---------|-------|------------|-------------|
 | **[JackQChen/QueueSystem](https://github.com/JackQChen/QueueSystem)** | [![Stars](https://img.shields.io/github/stars/JackQChen/QueueSystem?style=social&color=white)](https://github.com/JackQChen/QueueSystem/stargazers) | Java / Spring Boot | Production-tested physical service counter queue calling system (排队叫号系统) supporting ticket token issuance, teller call controls, display paging, and multi-window customer dispatch. |
 | **[SimplQ Frontend](https://github.com/SimplQ/simplQ-frontend)** | [![Stars](https://img.shields.io/github/stars/SimplQ/simplQ-frontend?style=social&color=white)](https://github.com/SimplQ/simplQ-frontend/stargazers) | JavaScript / React / CSS | Mature, fully web-based free virtual queue management frontend. Replaces physical waiting lines with self-serve web queues, QR ticketing, and real-time turn monitoring (paired with [SimplQ Server](https://github.com/SimplQ/simplQ-server)). |
@@ -112,7 +112,7 @@ Contributions to this ecosystem are warmly welcomed! 🌟
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-qms-tool`).
 3. 📝 Add your entry to `README.md` following the alphabetical / sorted format:
-   - Include: Name, Official URL, Pricing & Free Limits (for SaaS), or Stars & Tech Stack (for Open-Source).
+   - Include: Name, Official URL, Pricing & Free Limits (for SaaS), or GitHub_Stars & Tech Stack (for Open-Source).
 4. 🚀 Commit your changes (`git commit -m 'feat: add [Tool Name]'`).
 5. 📬 Push to the branch and open a **Pull Request** with a brief summary of why it fits the list.
 
