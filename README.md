@@ -1,6 +1,6 @@
 # Awesome-Customer-Queue-Management-Ticketing
 
-# Top Customer Queue Management & Ticketing Ecosystem
+## Top Customer Queue Management & Ticketing Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Virtual Queuing, Walk-In Ticketing & Real-Time Service Flow Control*  
