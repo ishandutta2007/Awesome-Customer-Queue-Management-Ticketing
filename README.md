@@ -15,10 +15,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global Customer Queue Management System (QMS) market is estimated at approximately **$850M to $1.1B** (projected to reach ~$1.13B by 2026 at a ~6.5% CAGR, with broader omnichannel customer journey orchestration expanding upwards toward $38B+). The sector is **moderately to highly fragmented** rather than winner-take-all; established enterprise hardware-software vendors (Qmatic, Wavetec, Q-nomy) hold multi-location footprint in healthcare, BFSI, and government, while agile, cloud-native SaaS platforms (Waitwhile, Qminder, NextME) and localized regional integrators rapidly capture modern SMB, retail, and hospitality workflows due to low barriers to entry.
 
 ## SaaS/Hosted Platforms
 
